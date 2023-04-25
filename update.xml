@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AppUpdate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://devc.dk/xsd/AppUpdate.xsd">
+  <Version>1.0.0</Version>
+  <ReleaseDate>2023-04-25</ReleaseDate>
+  <!-- Default download -->
+  <DownloadLink>https://github.com/kamptechnologies/videodownloader/files/11327106/VideoDownloader-v.1.0.0.zip</DownloadLink>
+  <DownloadFileName>
+  </DownloadFileName>
+  <!-- Download options -->
+  <Downloads>
+    <Download>
+      <Link>https://github.com/kamptechnologies/videodownloader/files/11327106/VideoDownloader-v.1.0.0.zip</Link>
+      <FileName>VideoDownloader-v.1.0.0.zip</FileName>
+      <FileHash>39ee36a53026cf137628e455d09b2c1ea46038b9</FileHash>
+    </Download>
+  </Downloads>
+  <!-- Release notes -->
+  <VersionNotes>
+  </VersionNotes>
+  <ReleaseNotes>
+  </ReleaseNotes>
+</AppUpdate>
